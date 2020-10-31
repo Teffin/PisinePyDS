@@ -1,0 +1,12 @@
+In this exercise, you will need to interact with HeadHunter API to parse some information about vacancies. In order to do this, you will need to understand how both curl
+and HeadHunter API work.
+Write a shell script that:
+• gets as an argument name of a vacancy ‘data scientist’ (some other exercises will
+be based on it)
+• downloads information about the first 20 vacancies corresponding to the search
+parameters
+• stores it in a file with the name hh.json.
+The result in the file must be formatted in the way that each field is placed on a
+different line
+Your script must be executable. The interpreter to use is /bin/sh. Put your script in
+the ex00 folder in the root of your repository as well as your result of parsing..
